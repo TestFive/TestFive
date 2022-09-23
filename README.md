@@ -4,7 +4,11 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTestFive&count_bg=%239C9C9C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ktaehwan87@gmail.com)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Metrophobic&size=35&duration=2000&pause=1000&color=AAD100&background=20232A&center=true&vCenter=true&width=435&height=110&lines=Hello+World+!!;TestFive's+GitHub+Profile." alt="Typing SVG" /></a>
+
+  <!--
   <img src = "https://user-images.githubusercontent.com/82634048/191684915-783d9c01-a4ef-4b9d-8500-baa4bf40827f.gif">
+  -->
 </div>
 
 <br>
