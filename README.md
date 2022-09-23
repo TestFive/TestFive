@@ -22,7 +22,9 @@
 
 </div>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white">
 
+ 
 <!--Reference-->
 <!--
 내 저장소를 README에 Pin으로 표시
