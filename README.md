@@ -22,22 +22,9 @@
 </div>
 <br>
 
-<p>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac">
-    <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp">
-    <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp">
-    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/C-03599C?style=for-the-badge&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/C++-9C033A?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logoColor=white">
-</p>
+
+![C](https://img.shields.io/badge/C-03599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-9C033A?style=flat&logo=cplusplus&logoColor=white) ![MFC](https://img.shields.io/badge/MFC-5E5E5E?style=flat&logo=Microsoft&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=flat&logo=.net&logoColor=white) ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat&logo=xaml&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![XML](https://img.shields.io/badge/XML-0C54C2?style=flat&logo=xaml&logoColor=white) ![Verilog](https://img.shields.io/badge/VERILOG-E01F27?style=flat&logo=xilinx&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SYSTEM_VERILOG-010101?style=flat&logo=xilinx&logoColor=white)
+
  
  
   
