@@ -11,13 +11,13 @@
 
 <div align="Left">  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=TestFive&show_icons=true&theme=merko" width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=TestFive&show_icons=true&theme=merko&bg_color=20232a" width=49.2% />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestFive&layout=compact&theme=merko" width=49.2% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestFive&layout=compact&theme=merko&bg_color=20232a" width=49.2% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=TestFive&theme=merko" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=TestFive&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
 
 </div>
