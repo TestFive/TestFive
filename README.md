@@ -5,6 +5,8 @@
 <img src = "https://user-images.githubusercontent.com/82634048/191684915-783d9c01-a4ef-4b9d-8500-baa4bf40827f.gif">
 
 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++%2B%2B&logoColor=white">
 
 
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++%2B%2B&logoColor=white">
