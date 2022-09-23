@@ -17,7 +17,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestFive&layout=compact&theme=merko" width=49.2% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=TestFive&theme=react-dark" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=TestFive&theme=merko" width=98%/>
 </a>
 
 </div>
