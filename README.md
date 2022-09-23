@@ -7,8 +7,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Metrophobic&size=35&duration=2000&pause=1000&color=AAD100&background=20232A&center=true&vCenter=true&width=435&height=70&lines=Hello+World+!!;TestFive's+GitHub+Profile." alt="Typing SVG" /></a>
 </div>
 
-<br>
-
 <div align="Left">  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=TestFive&show_icons=true&theme=merko&bg_color=20232a" width=49.2% />
