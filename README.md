@@ -13,5 +13,8 @@
 
 
 
-
+<!--
+내 저장소를 README에 Pin으로 표시
+&repo="내 저장소 이름"
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TestFive&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+-->
