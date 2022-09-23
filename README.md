@@ -22,8 +22,19 @@
 </div>
 <br>
 <p>
-  <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logoColor=white">
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac">
+    <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp">
+    <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp">
+    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
+  </a>
+  
+  <img src="https://img.shields.io/badge/C-03599C?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-9C033A?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logoColor=white">
 </p>
  
  
