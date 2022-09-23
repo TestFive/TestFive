@@ -17,7 +17,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestFive&layout=compact&theme=merko&bg_color=20232a" width=49.2% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=TestFive&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=TestFive&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=95b607" width=98%/>
 </a>
 
 </div>
