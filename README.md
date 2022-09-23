@@ -12,10 +12,10 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=TestFive&show_icons=true&theme=merko width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=TestFive&show_icons=true&theme=merko" width=49.2% />
 </a>
-<a href="https://github.com/TestFive/github-stats">
- <img src="https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg" width=49.2% />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestFive&layout=compact&theme=merko" width=49.2% />
 </a>
 </div>
 
