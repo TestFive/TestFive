@@ -10,19 +10,23 @@
 </div>
 
 <div align="Left">  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=TestFive&show_icons=true&theme=merko&bg_color=20232a" width=49.2% />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestFive&layout=compact&theme=merko&bg_color=20232a" width=48.2% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=TestFive&theme=react-dark&bg_color=20232a&hide_border=true&line=68b486&color=95b607" width=98%/>
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=TestFive&show_icons=true&theme=merko&bg_color=20232a" width=49.2% />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestFive&layout=compact&theme=merko&bg_color=20232a" width=48.2% />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=TestFive&theme=react-dark&bg_color=20232a&hide_border=true&line=68b486&color=95b607" width=98%/>
+  </a>
 </div>
-
-<img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logoColor=white">
-
+<br>
+<p>
+  <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logoColor=white">
+</p>
+ 
+ 
+  
  
 <!--Reference-->
 <!--
