@@ -19,10 +19,9 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=TestFive&theme=react-dark&bg_color=20232a&hide_border=true&line=68b486&color=95b607" width=98%/>
 </a>
-
 </div>
 
-<img src="https://img.shields.io/badge/C?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logoColor=white">
 
  
 <!--Reference-->
