@@ -23,6 +23,7 @@
 <br>
 <p>
   <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logoColor=white">
 </p>
  
  
